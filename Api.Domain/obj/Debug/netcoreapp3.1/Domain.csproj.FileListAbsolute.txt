@@ -1,0 +1,16 @@
+/home/lacon/Projetos/BibiTotem-Front-End/back-end/src/Api.Domain/bin/Debug/netcoreapp3.1/Domain.deps.json
+/home/lacon/Projetos/BibiTotem-Front-End/back-end/src/Api.Domain/bin/Debug/netcoreapp3.1/Domain.dll
+/home/lacon/Projetos/BibiTotem-Front-End/back-end/src/Api.Domain/bin/Debug/netcoreapp3.1/Domain.pdb
+/home/lacon/Projetos/BibiTotem-Front-End/back-end/src/Api.Domain/obj/Debug/netcoreapp3.1/Domain.csprojAssemblyReference.cache
+/home/lacon/Projetos/BibiTotem-Front-End/back-end/src/Api.Domain/obj/Debug/netcoreapp3.1/Domain.AssemblyInfoInputs.cache
+/home/lacon/Projetos/BibiTotem-Front-End/back-end/src/Api.Domain/obj/Debug/netcoreapp3.1/Domain.AssemblyInfo.cs
+/home/lacon/Projetos/BibiTotem-Front-End/back-end/src/Api.Domain/obj/Debug/netcoreapp3.1/Domain.dll
+/home/lacon/Projetos/BibiTotem-Front-End/back-end/src/Api.Domain/obj/Debug/netcoreapp3.1/Domain.pdb
+/home/lacon/Projetos/BibiTotem-Front-End/src/back-end/src/Api.Domain/bin/Debug/netcoreapp3.1/Domain.deps.json
+/home/lacon/Projetos/BibiTotem-Front-End/src/back-end/src/Api.Domain/bin/Debug/netcoreapp3.1/Domain.dll
+/home/lacon/Projetos/BibiTotem-Front-End/src/back-end/src/Api.Domain/bin/Debug/netcoreapp3.1/Domain.pdb
+/home/lacon/Projetos/BibiTotem-Front-End/src/back-end/src/Api.Domain/obj/Debug/netcoreapp3.1/Domain.csprojAssemblyReference.cache
+/home/lacon/Projetos/BibiTotem-Front-End/src/back-end/src/Api.Domain/obj/Debug/netcoreapp3.1/Domain.AssemblyInfoInputs.cache
+/home/lacon/Projetos/BibiTotem-Front-End/src/back-end/src/Api.Domain/obj/Debug/netcoreapp3.1/Domain.AssemblyInfo.cs
+/home/lacon/Projetos/BibiTotem-Front-End/src/back-end/src/Api.Domain/obj/Debug/netcoreapp3.1/Domain.dll
+/home/lacon/Projetos/BibiTotem-Front-End/src/back-end/src/Api.Domain/obj/Debug/netcoreapp3.1/Domain.pdb
